@@ -4,7 +4,7 @@ Website build on a basic business template [Business Frontpage](https://startboo
 
 ## Preview
 
-[![The Seven Apps frontpage Preview](https://github.com/TheSevenApps/TheSevenApps.github.io/other/preview.png)](https://thesevenapps.github.io/)
+[![The Seven Apps frontpage Preview](other/preview.png)](https://thesevenapps.github.io/)
 
 ## Copyright and License
 
